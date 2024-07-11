@@ -8,6 +8,10 @@ The ns-3 WebUI is designed using [Next.js](https://nextjs.org/) and the [shadcn/
 
 User authentication, e.g., login/logout pages, are based on [Lucia](https://lucia-auth.com/) and the sqlite3 database. Download the [DB Browser for SQLite](https://sqlitebrowser.org/) to manage the `main.db` database file.
 
+## System Requirements
+
+[node.js v20.15.1](https://nodejs.org/en) or later.
+
 ## Install ns-3
 
 In the root directory, clone ns-3.42 from GitLab:
